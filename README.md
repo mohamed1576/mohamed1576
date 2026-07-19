@@ -13,30 +13,13 @@ An enthusiastic **Artificial Intelligence Student** and **Data Science Freelance
 
 ## 🛠️ Technical Toolbox
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/python.svg" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/java.svg" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
-      <br />Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/pandas.svg" width="48" height="48" alt="Pandas" />
-      <br />Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/git.svg" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-  </tr>
-</table>
+## 🛠️ Technical Toolbox
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Core Competencies:
 - **ML Architectures:** Custom Feature Engineering Transformers, Pipeline Serialization (Joblib/Pickle), Cross-Validation, and Hyperparameter Tuning (`GridSearchCV`).
@@ -54,5 +37,5 @@ An enthusiastic **Artificial Intelligence Student** and **Data Science Freelance
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/mohamed-abdelmageed-7ab09938a](https://www.linkedin.com/in/mohamed-abdelmageed-7ab09938a/)
+- 💼 **LinkedIn:** [linkedin.com/in/mohamed-abdelmageed-7ab09938a](https://www.linkedin.com/in/mohamed-ahmed-7ab09938a/)
 - 📧 **Email:** [mohamed.ahmd.ai5@gmail.com](mailto:mohamed.ahmd.ai5@gmail.com)
