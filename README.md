@@ -11,7 +11,6 @@ An enthusiastic **Artificial Intelligence Student** and **Data Science Freelance
 
 ---
 
-## 🛠️ Technical Toolbox
 
 ## 🛠️ Technical Toolbox
 
