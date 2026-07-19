@@ -38,4 +38,4 @@ An enthusiastic **Artificial Intelligence Student** and **Data Science Freelance
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/mohamed-abdelmageed-7ab09938a](https://www.linkedin.com/in/mohamed-ahmed-7ab09938a/)
-- 📧 **Email:** [mohamed.ahmd.ai5@gmail.com](mailto:mohamed.ahmd.ai5@gmail.com)
+- 📧 **Email:** [mohamed.ahmd.ai5@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mohamed.ahmd.ai5@gmail.com)
